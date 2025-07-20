@@ -1,4 +1,3 @@
-
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import RoomJoin from './components/RoomJoin';
 import Whiteboard from './components/Whiteboard';
